@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/application.conf,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/cloudbees.conf,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/cloudbees.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/evolutions,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/mail.conf.example,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/mail.conf.example)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/messages.en,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/messages.en)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/messages.fr,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/messages.fr)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/play.plugins,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/play.plugins)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/routes,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/evolutions/default,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/PlayStartApp/conf/evolutions/default/1.sql,/Users/admin/Box Documents/PlayStartApp/target/scala-2.10/classes/evolutions/default/1.sql)[0m
